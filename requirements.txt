@@ -3,4 +3,5 @@ numpy
 matplotlib
 seaborn
 jupyter
+papermill
 scikit-learn
